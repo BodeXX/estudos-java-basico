@@ -1,18 +1,87 @@
-## Getting Started
+# ☕ java-operadores-variaveis-e-metodos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém códigos em Java criados para praticar os fundamentos da linguagem: **variáveis**, **operadores**, **métodos** e outros conceitos que serão adicionados progressivamente.  
+É um projeto didático e em evolução contínua, voltado para consolidação de conhecimentos essenciais na programação orientada a objetos com Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📁 Como executar
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Clone o repositório:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+   ```bash
+   git clone https://github.com/BodeXX/java-operadores-variaveis.git
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+2. Abra em uma IDE Java como IntelliJ IDEA ou VS Code.
 
-## Dependency Management
+3. Navegue até a pasta `src/` e execute os arquivos individualmente:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `Operadores.java`
+- `TiposVariaveis.java`
+- `Usuario.java` (executa métodos da classe `SmartTv`)
+
+---
+
+## 🧠 O que foi praticado até agora?
+
+### Operadores.java
+
+- Atribuição (`=`)
+- Operadores aritméticos (`+`, `-`, `*`, `/`)
+- Operadores unários (`++`, `--`, `+`, `-`)
+- Operadores relacionais (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+- Operadores lógicos (`&&`, `||`)
+- Operador ternário (`? :`)
+- Precedência de operadores
+
+### TiposVariaveis.java
+
+- Declaração de variáveis primitivas (`int`, `double`, `float`, `boolean`, etc.)
+- Convenções de nomenclatura
+- Constantes (`final`)
+- Casting e conversões
+- Organização de código e boas práticas
+
+### Usuario.java e SmartTv.java
+
+- Criação de classes com atributos e métodos
+- Instanciação de objetos
+- Simulação de um controle de TV:
+  - Ligar/desligar
+  - Aumentar/diminuir volume
+  - Mudar canal
+- Manipulação de estado interno de objetos
+
+---
+
+## 📚 Tecnologias utilizadas
+
+- Java 17  
+- VS Code  
+- Git e GitHub
+
+---
+
+## 💡 Por que este projeto?
+
+Este projeto marca um momento importante na minha transição e consolidação profissional na área de desenvolvimento.  
+Cada linha de código representa um passo rumo à construção de uma base sólida para projetos mais complexos no futuro.  
+Além disso, compartilho meu aprendizado de forma transparente como forma de contribuir com a comunidade e gerar conexões valiosas.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Jonas Alberto**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonas-alberto-90162372/)
+- 🧑‍💻 [GitHub](https://github.com/BodeXX)
+
+---
+
+## ✨ Considerações finais
+
+Se você chegou até aqui, obrigado por acompanhar meu progresso!  
+Estou aberto a feedbacks, colaborações e conexões com profissionais da área.
+
+Este projeto faz parte do meu portfólio pessoal e está sendo compartilhado para fins de aprendizado, networking e evolução contínua. 🚀

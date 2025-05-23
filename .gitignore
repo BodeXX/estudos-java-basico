@@ -1,4 +1,10 @@
+# Arquivos compilados
 *.class
 
-.vscode/
+# Diretórios de saida
+/bin/
 */bin/
+
+# Configurações do VS Code
+.vscode/
+
