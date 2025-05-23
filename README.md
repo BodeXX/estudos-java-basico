@@ -10,7 +10,7 @@ Este repositório contém códigos em Java criados para praticar os fundamentos 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/BodeXX/java-operadores-variaveis.git
+   git clone https://github.com/BodeXX/estudos-java-basico.git
 
 2. Abra em uma IDE Java como IntelliJ IDEA ou VS Code.
 
