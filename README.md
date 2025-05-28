@@ -1,6 +1,6 @@
 # ☕ java-operadores-variaveis-e-metodos
 
-Este repositório contém códigos em Java criados para praticar os fundamentos da linguagem: **variáveis**, **operadores**, **métodos** e outros conceitos que serão adicionados progressivamente.  
+Este repositório contém códigos em Java criados para praticar os fundamentos da linguagem: **variáveis**, **operadores**, **métodos**, **escopo** e outros conceitos que serão adicionados progressivamente.  
 É um projeto didático e em evolução contínua, voltado para consolidação de conhecimentos essenciais na programação orientada a objetos com Java.
 
 ---
@@ -52,6 +52,15 @@ Este repositório contém códigos em Java criados para praticar os fundamentos 
   - Mudar canal
 - Manipulação de estado interno de objetos
 
+### Conta.java
+
+- Compreensão do **escopo de variáveis** em Java
+- Diferença entre:
+  - **Variáveis de instância** (acessíveis em toda a classe)
+  - **Variáveis locais de método** (visíveis apenas dentro do método)
+  - **Variáveis de bloco/fluxo**, como em loops (`for`)
+- Demonstração de **limitações de acesso** com variáveis fora do escopo
+- Importância do posicionamento correto das variáveis no código
 ---
 
 ## 📚 Tecnologias utilizadas
@@ -74,7 +83,7 @@ Além disso, compartilho meu aprendizado de forma transparente como forma de con
 
 Desenvolvido por **Jonas Alberto**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jonas-alberto-90162372/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonas-bode/)
 - 🧑‍💻 [GitHub](https://github.com/BodeXX)
 
 ---
